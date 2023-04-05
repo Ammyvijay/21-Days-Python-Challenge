@@ -14,4 +14,6 @@ Learing python language from basic to advance level
 10. Class Compositions
 11. Method Overriding
 12. Using super() keyword calling parents methods and features
-
+13. Method Resolution Order
+14. Class Variable
+15. Class Method
