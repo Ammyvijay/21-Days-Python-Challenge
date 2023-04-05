@@ -1,5 +1,5 @@
 """
-Multiple inheritance in Python allows a class to inherit attributes and methods from multiple parent classes. This means that a child class can have the properties of multiple classes, which can be useful in situations where a class needs to inherit behavior from different sources.
+Note : Multiple inheritance in Python allows a class to inherit attributes and methods from multiple parent classes. This means that a child class can have the properties of multiple classes, which can be useful in situations where a class needs to inherit behavior from different sources.
 
 The benefits of using multiple inheritance include code reusability, flexibility in design, and the ability to create complex hierarchies of classes. However, it is important to use multiple inheritance judiciously and avoid creating complicated and confusing class hierarchies.
 """
